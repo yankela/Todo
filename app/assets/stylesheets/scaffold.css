@@ -1,3 +1,9 @@
+p strong {
+  font-size: 50px;
+  font-family: verdana;
+  color: red;
+}
+
 body {
   background-color: #fff;
   color: #333;
